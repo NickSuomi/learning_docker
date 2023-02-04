@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 
 :root {
-    --primary-color: #2596ec;
+    --primary-color: #104242;
 }
 
 * {
@@ -365,7 +365,7 @@ h3 {
     height: 56px;
     box-sizing: border-box;
     border-bottom: 1px solid #eaecef;
-    background: #2596ec;
+    background: var(--primary-color);
     color: #fff;
 }
 
